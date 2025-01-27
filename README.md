@@ -1,4 +1,3 @@
-
 # Cerber - System Ewidencji Uczestników Studniówki
 
 Cerber to aplikacja do zarządzania uczestnikami studniówki, umożliwiająca rejestrację wejść i wyjść, kontrolę zgód rodzicielskich oraz eksport danych do plików CSV i PDF.
@@ -52,9 +51,7 @@ Cerber to aplikacja do zarządzania uczestnikami studniówki, umożliwiająca re
    - Kliknij „Dane” → „Eksportuj do CSV” lub „Eksportuj do PDF”.  
 
 ## Autorzy
-
-Projekt został stworzony z myślą o ułatwieniu organizacji studniówek, dbając o bezpieczeństwo uczestników i intuicyjność obsługi.  
+Deis71
 
 ## Licencja
-
 MIT License
