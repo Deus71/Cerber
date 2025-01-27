@@ -51,7 +51,7 @@ Cerber to aplikacja do zarządzania uczestnikami studniówki, umożliwiająca re
    - Kliknij „Dane” → „Eksportuj do CSV” lub „Eksportuj do PDF”.  
 
 ## Autorzy
-Deis71
+Deus71
 
 ## Licencja
 MIT License
